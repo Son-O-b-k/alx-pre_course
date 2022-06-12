@@ -1,2 +1,2 @@
 # alx-pre-course
-My first readme
+Updating the README.md file from the Github interface
